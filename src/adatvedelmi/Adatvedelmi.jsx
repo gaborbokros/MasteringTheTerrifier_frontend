@@ -8,15 +8,15 @@ function Adatvedelmi () {
                 <h3>Adatkezelési tájékoztató</h3>
                 <b>Mastering The Terrifier – Dead by Daylight verseny</b>
                 <br />
-                <b>Hatálybalépés:</b> 2026. 11 20
+                <b>Hatálybalépés:</b> 2026. 11. 20
 
                 <section>
                     <h4>1. Az adatkezelő adatai</h4>
                     <p>A Mastering The Terrifier elnevezésű Dead by Daylight verseny (a továbbiakban: Verseny) során megadott személyes adatok kezeléséért az alábbi adatkezelő felel:</p>
                     <ul>
-                        <li><b>Adatkezelő neve:</b> [Teljes név]</li>
-                        <li><b>Kapcsolattartási e-mail-cím:</b> [E-mail-cím]</li>
-                        <li><b>Discord-elérhetőség:</b> [Discord-felhasználónév]</li>
+                        <li><b>Adatkezelő neve:</b>Dani András</li>
+                        <li><b>Kapcsolattartási e-mail-cím:</b>nightraven.hunn@gmail.com</li>
+                        <li><b>Discord-elérhetőség:</b>nightraven_hun</li>
                     </ul>
                     <p> A Verseny lebonyolításában két szervező vesz részt, akik a feladataik ellátásához szükséges mértékben férhetnek hozzá a jelentkezési adatokhoz.</p>
                 </section>

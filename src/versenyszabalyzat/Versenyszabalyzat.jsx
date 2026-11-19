@@ -7,9 +7,9 @@ function Versenyszabalyzat () {
             <div className="container">
 <sectionsection>
     <h4>MASTERING THE TERRIFIER – HIVATALOS VERSENYSZABÁLYZAT</h4>
-    <p>Hatálybalépés: [ÉÉÉÉ. HH. NN.]</p>
-    <p>Szervező: [Szervező neve]</p>
-    <p>Kapcsolattartás: [Discord / e-mail]</p>
+    <p>Hatálybalépés: Dani András</p>
+    <p>Szervező: Dani András</p>
+    <p>Kapcsolattartás: nightraven.hunn@gmail.com</p>
   </sectionsection>
 
   <section>
@@ -27,10 +27,8 @@ function Versenyszabalyzat () {
     <p>2.2. A 18. életévüket be nem töltött résztvevők esetében a részvételhez, valamint az esetleges nyeremény átvételéhez szükséges törvényes képviselői hozzájárulást a vonatkozó jogszabályok szerint kell biztosítani.</p>
     <p>2.3. A Versenyen való részvételhez a következők szükségesek:</p>
     <ul>
-      <li>A Dead by Daylight videojátékhoz való hozzáférés.</li>
       <li>Működő Discord-fiók.</li>
       <li>A Szervezővel történő kapcsolattartás lehetősége.</li>
-      <li>Megfelelő internetkapcsolat.</li>
       <li>A Verseny lebonyolításához szükséges időbeli rendelkezésre állás.</li>
     </ul>
     <p>2.4. Minden résztvevő kizárólag egy jelentkezést nyújthat be. Több fiókkal történő jelentkezés tilos.</p>
@@ -114,9 +112,7 @@ function Versenyszabalyzat () {
     <h4>9. Nyeremények</h4>
     <p>9.1. A Versenyen kiosztásra kerülő nyeremények és az ezek elnyeréséhez szükséges feltételek:</p>
     <ul>
-      <li>[Nyeremény és helyezés 1.]</li>
-      <li>[Nyeremény és helyezés 2.]</li>
-      <li>[Nyeremény és helyezés 3.]</li>
+      <li>FIX DLC</li>
     </ul>
     <p>9.2. A Szervező a Verseny kezdete előtt nyilvánosságra hozza a nyeremények pontos megnevezését, számát és a nyertesek kiválasztásának módját.</p>
     <p>9.3. A nyeremények átruházhatóságáról, készpénzre válthatóságáról és átadásuk feltételeiről a Szervező előzetesen rendelkezik.</p>
@@ -162,7 +158,7 @@ function Versenyszabalyzat () {
   <section>
     <p>Mastering The Terrifier – Hivatalos Versenyszabályzat</p>
     <p>Dokumentumverzió: 1.0</p>
-    <p>Utolsó módosítás: [ÉÉÉÉ. HH. NN.]</p>
+    <p>Utolsó módosítás: 2026.11.19</p>
   </section>
             </div>
         </div>

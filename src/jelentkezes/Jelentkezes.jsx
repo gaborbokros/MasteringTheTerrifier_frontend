@@ -32,7 +32,7 @@ function Jelentkezes () {
     const submitform = async () => {  
         console.log(choosenperks);
               
-        await axios.post("https://test-l7hh.onrender.com/api/forms", { "twitch": twitchname, discord: discordname, inGameName: ingamename, "perks": choosenperks, privacyAccepted: adatvedelmi, rulesAccepted: versenyszabalyzat, addons: choosenaddons })
+        await axios.post("https://masteringtheterrifier-backend-nsea.onrender.com/api/forms", { "twitch": twitchname, discord: discordname, inGameName: ingamename, "perks": choosenperks, privacyAccepted: adatvedelmi, rulesAccepted: versenyszabalyzat, addons: choosenaddons })
         .then(res => {
             console.log(res.data.message + " " + res.data.id);
             setmessage({ type: "good", message: [res.data.message, `Az összeállított build-et a verseny kezdetéig módosíthatod ezen a linken: ${res.data.id}`] })

@@ -21,7 +21,7 @@ function Edit () {
     const [isokay, setisokay] = useState(true)
 
     useEffect(() => {
-        axios.get(`https://test-l7hh.onrender.com/api/forms/${id}/edit`)
+        axios.get(`https://masteringtheterrifier-backend-nsea.onrender.com/api/forms/${id}/edit`)
         .then (res => {
             setchoosenperks(res.data.perks)
             setchoosenaddons(res.data.addons)
@@ -58,7 +58,7 @@ function Edit () {
     const submitedit = async () => {
         console.log("alma");
         
-        await axios.post(`https://test-l7hh.onrender.com/api/forms/${id}/edit`, { perks: choosenperks, addons: choosenaddons})
+        await axios.post(`https://masteringtheterrifier-backend-nsea.onrender.com/api/forms/${id}/edit`, { perks: choosenperks, addons: choosenaddons})
         .then (res => {
             setmessage({ type: "good", message: [res.data.message] })
             
