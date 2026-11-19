@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Allie's Scalp",
+        "rarity": "common",
+        "descriptiton": "Once per Trial, downing a Tortured Survivor with a basic-attack applies Terrified.",
+        "id": "AlliesScalp"
+    },
+    {
+        "name": "Blackened Heart",
+        "rarity": "common",
+        "descriptiton": "After Taunting a Survivor, downing a Survivor with a Toy grants that Toy +1 extra Deadliness point.",
+        "id": "BlackenedHeart"
+    },
+    {
+        "name": "Bottle of Bleach",
+        "rarity": "common",
+        "descriptiton": "Decreases Torture decay rate by -15 %.",
+        "id": "BottleofBleach"
+    },
+    {
+        "name": "Mike's Phone",
+        "rarity": "common",
+        "descriptiton": "Hitting a non-regressing Generator with a Toy causes it to lose -5 % progress and start regressing.",
+        "id": "MikesPhone"
+    },
+    {
+        "name": "Bloodstained Bullet",
+        "rarity": "uncommon",
+        "descriptiton": "Shooting a Survivor further than 16 metres away grants +10 % Status Effect for 10 seconds. When you apply Torture, the next Bag of Toys search is guaranteed to contain the Handgun.",
+        "id": "BloodstainedBullet"
+    },
+    {
+        "name": "Brooke's Pustule",
+        "rarity": "uncommon",
+        "descriptiton": "While standing in the Acid Puddle and for 5 seconds after, increase basic-breaking speed of Pallets and Breakable Walls by +25 %. When you apply Torture, the next Bag of Toys search is guaranteed to contain the Acid Bottle.",
+        "id": "BrookesPustule"
+    },
+    {
+        "name": "Burnt Wings",
+        "rarity": "uncommon",
+        "descriptiton": "Increases the duration of Flames by +5 seconds. When you apply Torture, the next Bag of Toys search is guaranteed to contain the Flamethrower.",
+        "id": "BurntWings"
+    },
+    {
+        "name": "Shiny Tricycle",
+        "rarity": "uncommon",
+        "descriptiton": "When the Bike Horn detects more than 1 Survivor, reveal other Survivors who were not detected for 8 seconds. When you apply Torture, the next Bag of Toys search is guaranteed to contain the Bike Horn.",
+        "id": "ShinyTricycle"
+    },
+    {
+        "name": "Sienna's Flesh",
+        "rarity": "uncommon",
+        "descriptiton": "Increases the range of the Flail by +20 %. When you apply Torture, the next Bag of Toys search is guaranteed to contain the Flail.",
+        "id": "SiennasFlesh"
+    },
+    {
+        "name": "Candy Head Bowl",
+        "rarity": "rare",
+        "descriptiton": "Detecting a Survivor with the Bike Horn resets Bag of Toys cool-down.",
+        "id": "CandyHeadBowl"
+    },
+    {
+        "name": "Dead Opossum",
+        "rarity": "rare",
+        "descriptiton": "Hitting a Survivor with the Handgun or the Flail reveals all other Survivor locations within 24 metres for 3 seconds.",
+        "id": "DeadOpossum"
+    },
+    {
+        "name": "Emily",
+        "rarity": "rare",
+        "descriptiton": "Toys available in the Bag of Toys appear in a set order: Bike Horn, Handgun, Flamethrower, Flail, Acid Bottle.",
+        "id": "Emily"
+    },
+    {
+        "name": "Thornton Salt",
+        "rarity": "rare",
+        "descriptiton": "Tortured Survivors suffer from Mangled and Haemorrhage Status Effects. These effects linger for 40 seconds after Torture is removed.",
+        "id": "ThorntonSalt"
+    },
+    {
+        "name": "Victoria's Eye",
+        "rarity": "rare",
+        "descriptiton": "Hitting a Survivor with the Acid Bottle or the Flamethrower reveals their aura for 5 seconds.",
+        "id": "VictoriasEye"
+    },
+    {
+        "name": "Art Crispies",
+        "rarity": "epic",
+        "descriptiton": "When you Torture a Survivor, you both gain between +5 % and +15 % Haste Status Effect for 5 seconds.",
+        "id": "ArtCrispies"
+    },
+    {
+        "name": "Explosive Gift",
+        "rarity": "epic",
+        "descriptiton": "For each Toy with maximum Deadliness, reduce your Terror Radius size by -20 %.",
+        "id": "ExplosiveGift"
+    },
+    {
+        "name": "Jonathan's Skull",
+        "rarity": "epic",
+        "descriptiton": "Damaging or Torturing a Survivor with a Toy grants 1 Token, up to 10 Tokens. Manually Taunting consumes all Tokens then, if at least 1 Token was consumed, reveal all Survivor auras within 8 metres plus +2 metres per Token for 6 seconds.",
+        "id": "JonathansSkull"
+    },
+    {
+        "name": "Wacky Jacks",
+        "rarity": "epic",
+        "descriptiton": "Reduces maximum possible Deadliness points by -1 point to 5 points.",
+        "id": "WackyJacks"
+    },
+    {
+        "name": "Duct Tape",
+        "rarity": "visceral",
+        "descriptiton": "Equipping a Toy within 0.5 seconds of opening the Bag of Toys reduces its cool-down by -5 seconds.",
+        "id": "DuctTape"
+    },
+    {
+        "name": "The Ninth Circle",
+        "rarity": "visceral",
+        "descriptiton": "Taunting a Survivor for the first time grants 1 Token. When the Exit Gates are powered and The Ninth Circle has 4 Tokens, reduce the cool-down of Bag of Toys to 1 second.",
+        "id": "TheNinthCircle"
+    }
+]

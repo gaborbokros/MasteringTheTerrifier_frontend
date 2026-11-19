@@ -1,0 +1,30 @@
+.main {
+    min-height: 100vh;
+}
+
+#adatvedelmi {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#adatvedelmi h4 {
+    padding-top: 20px;
+}
+
+#adatvedelmi b {
+    color: var(--red)
+}
+
+#adatvedelmi a {
+    color: var(--line)
+}
+
+#adatvedelmi .container {
+    width: 50%;
+    border: 1px solid var(--red);
+    box-shadow: 1px 1px 10px var(--red);
+    padding: 80px 40px;
+    border-radius: 20px;
+}

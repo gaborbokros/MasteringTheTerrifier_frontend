@@ -1,0 +1,33 @@
+.errorlink {
+    width: 100%;
+    height: 100vh;
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: repeating-linear-gradient(110deg, transparent 0 28px, #16090d55 29px 30px), radial-gradient(ellipse at 60% 42%, #9d253a, #2a1019 60%, #110d12 85%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.bad {
+    color: red;
+    background: rgba(0,0,0,.5);
+
+}
+
+.good {
+    color: green;
+    background: rgba(0,0,0,.8);
+}
+
+.messages {
+    width: fit-content;
+    margin: auto;
+}
+
+.messages p {
+    padding: 5px 10px;
+    margin: 10px 0px;
+    text-align: center;
+}

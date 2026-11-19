@@ -1,0 +1,338 @@
+.main {
+    min-height: 100vh;
+}
+
+.dnone {
+    display: none !important;
+}
+
+.perkslot {
+    width: 100px;
+    height: 100px;
+    background: url("/assets/empty_perk.webp");
+    background-size: cover;
+}
+
+.addonslot {
+    width: 75px;
+    height: 75px;
+    background: url("/assets/empty_addon.webp");
+    background-size: cover;
+}
+
+.persklot::before {
+
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+
+
+#jelentkezes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.perkslot img {
+    width: 100%;
+}
+
+#jelentkezes .page {
+    box-shadow: 1px 1px 5px var(--red);
+    width: 40%;
+    background: repeating-linear-gradient(110deg, transparent 0 28px, #16090d55 29px 30px), radial-gradient(ellipse at 60% 42%, #9d253a, #2a1019 60%, #110d12 85%);;
+    padding: 75px;
+    border-radius: 20px;
+}
+
+.page1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.page h3 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.page .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.page .buttons button {
+    background: transparent;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    color: var(--font);
+    margin-top: 50px;
+}
+
+.page1 input{
+    border: none;
+    display: block;
+    background: transparent;
+    color: var(--bg);
+    flex: 1;
+}
+
+.input img {
+    width: 25px;
+    margin-right: 10px;
+}
+
+.input {
+    width: 75%;
+    display: flex;
+    background: var(--font);
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+input:focus {
+    outline: none;
+}
+
+.page1 .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.perks, .addons {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.perkslot, .addonslot {
+    cursor: pointer;
+}
+
+.addons {
+    margin-top: 20px;
+}
+
+.addonslot, .perkslot {
+    position: relative;
+}
+
+.addonslot img, .perkslot img {
+    width: 100%;
+    position: absolute;
+}
+
+.page2 {
+    position: relative;
+}
+
+.searchperk {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(0,0,0,.95);
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchperk img {
+    width: 100px;
+    
+}
+
+.perk {
+    background: url("/perk_bg.png");
+    background-size: cover;
+    width: fit-content;
+    aspect-ratio: 1/1;
+    width: 100px;
+    height: 100px;
+}
+
+.perklist {
+    height: 80%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+#adatkezelesi {
+    margin-bottom: 30px;
+}
+
+.searchperk input {
+    width: 75%;
+    display: flex;
+    background: var(--font);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.addon {
+    width: 75px;
+    height: 75px;
+}
+
+.addon img {
+    width: 100%;
+}
+
+.common { background: url("/addonrarities/common.png"); background-size: cover; }
+.uncommon { background: url("/addonrarities/uncommon.png"); background-size: cover; }
+.rare { background: url("/addonrarities/rare.png"); background-size: cover; }
+.epic { background: url("/addonrarities/epic.png"); background-size: cover; }
+.visceral { background: url("/addonrarities/visceral.png"); background-size: cover; }
+
+.addonlist {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.addonlist, .infomodal {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: rgba(0,0,0,.95);
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.infomodal .container {
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    padding: 15px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.addoninfo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.addoninfo .icon {
+    width: 75px;
+
+}
+
+.addoninfo .title {
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--red)
+}
+
+.addoninfo img {
+    width: 75px;
+}
+
+@media (max-width: 1575px) {
+    #jelentkezes .page {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1300px) {
+    #jelentkezes .page {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1010px) {
+    h3 {
+        font-size: 35px;
+    }
+
+    #jelentkezes .page {
+        width: 70%;
+    }
+}
+
+@media (max-width: 900px) {
+    #jelentkezes .page {
+        width: 80%;
+    }
+}
+
+@media (max-width: 900px) {
+    #jelentkezes .page {
+        width: 100%;
+        border-radius: 0px;
+        height: 100vh;
+    }
+}
+
+@media (max-width: 625px) {
+    .perkslot {
+        width: 80px;
+        height: 80px;
+    }
+
+    .addonslot {
+        width: 65px;
+        height: 65px;
+    }
+}
+
+@media (max-width: 560px) {
+    #jelentkezes .page {
+        padding: 120px 25px
+    }
+
+    .page .buttons {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 450px) {
+    .perkslot {
+        width: 60px;
+        height: 60px;
+    }
+
+    .addonslot {
+        width: 50px;
+        height: 50px;
+    }
+
+    #jelentkezes .page {
+        height: calc(100vh - 180px);
+    }
+
+    #jelentkezes {
+        align-items: start;
+    }
+
+    .addon {
+        width: 50px;
+        height: 50px;
+    }
+}

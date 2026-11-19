@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Agitation",
+    "id": "agitation"
+  },
+  {
+    "name": "Bamboozle",
+    "id": "bamboozle"
+  },
+  {
+    "name": "Barbecue & Chili",
+    "id": "barbecuechili"
+  },
+  {
+    "name": "Beast of Prey",
+    "id": "beastofprey"
+  },
+  {
+    "name": "Bitter Murmur",
+    "id": "bittermurmur"
+  },
+  {
+    "name": "Blood Echo",
+    "id": "bloodecho"
+  },
+  {
+    "name": "Bloodhound",
+    "id": "bloodhound"
+  },
+  {
+    "name": "Blood Warden",
+    "id": "bloodwarden"
+  },
+  {
+    "name": "Shattered Hope",
+    "id": "shatteredhope"
+  },
+  {
+    "name": "Brutal Strength",
+    "id": "brutalstrength"
+  },
+  {
+    "name": "Corrupt Intervention",
+    "id": "corruptintervention"
+  },
+  {
+    "name": "Coulrophobia",
+    "id": "coulrophobia"
+  },
+  {
+    "name": "Cruel Limits",
+    "id": "cruellimits"
+  },
+  {
+    "name": "Dark Devotion",
+    "id": "darkdevotion"
+  },
+  {
+    "name": "Dead Man’s Switch",
+    "id": "deadmansswitch"
+  },
+  {
+    "name": "Deathbound",
+    "id": "deathbound"
+  },
+  {
+    "name": "Deerstalker",
+    "id": "deerstalker"
+  },
+  {
+    "name": "Discordance",
+    "id": "discordance"
+  },
+  {
+    "name": "Distressing",
+    "id": "distressing"
+  },
+  {
+    "name": "Dragon’s Grip",
+    "id": "dragonsgrip"
+  },
+  {
+    "name": "Dying Light",
+    "id": "dyinglight"
+  },
+  {
+    "name": "Enduring",
+    "id": "enduring"
+  },
+  {
+    "name": "Fire Up",
+    "id": "fireup"
+  },
+  {
+    "name": "Forced Penance",
+    "id": "forcedpenance"
+  },
+  {
+    "name": "Franklin's Demise",
+    "id": "franklinsdemise"
+  },
+  {
+    "name": "Furtive Chase",
+    "id": "furtivechase"
+  },
+  {
+    "name": "Gearhead",
+    "id": "gearhead"
+  },
+  {
+    "name": "Overcharge",
+    "id": "overcharge"
+  },
+  {
+    "name": "Scourge Hook: Hangman's Trick",
+    "id": "scourgehookhangmanstrick"
+  },
+  {
+    "name": "Hex: Devour Hope",
+    "id": "hexdevourhope"
+  },
+  {
+    "name": "Hex: Haunted Ground",
+    "id": "hexhauntedground"
+  },
+  {
+    "name": "Hex: Huntress Lullaby",
+    "id": "hexhuntresslullaby"
+  },
+  {
+    "name": "Hex: Ruin",
+    "id": "hexruin"
+  },
+  {
+    "name": "Hex: The Third Seal",
+    "id": "hexthethirdseal"
+  },
+  {
+    "name": "Hex: Thrill of the Hunt",
+    "id": "hexthrillofthehunt"
+  },
+  {
+    "name": "Hex: Blood Favor",
+    "id": "hexbloodfavor"
+  },
+  {
+    "name": "Hex: Retribution",
+    "id": "hexretribution"
+  },
+  {
+    "name": "Hex: Undying",
+    "id": "hexundying"
+  },
+  {
+    "name": "I'm All Ears",
+    "id": "imallears"
+  },
+  {
+    "name": "Infectious Fright",
+    "id": "infectiousfright"
+  },
+  {
+    "name": "Insidious",
+    "id": "insidious"
+  },
+  {
+    "name": "Knock Out",
+    "id": "knockout"
+  },
+  {
+    "name": "Iron Grasp",
+    "id": "irongrasp"
+  },
+  {
+    "name": "Iron Maiden",
+    "id": "ironmaiden"
+  },
+  {
+    "name": "Hoarder",
+    "id": "hoarder"
+  },
+  {
+    "name": "Oppression",
+    "id": "oppression"
+  },
+  {
+    "name": "Coup de Grâce",
+    "id": "coupdegrace"
+  },
+  {
+    "name": "Starstruck",
+    "id": "starstruck"
+  },
+  {
+    "name": "Hex: Crowd Control",
+    "id": "hexcrowdcontrol"
+  },
+  {
+    "name": "No Way Out",
+    "id": "nowayout"
+  },
+  {
+    "name": "Lethal Pursuer",
+    "id": "lethalpursuer"
+  },
+  {
+    "name": "Hysteria",
+    "id": "hysteria"
+  },
+  {
+    "name": "Eruption",
+    "id": "eruption"
+  },
+  {
+    "name": "Deadlock",
+    "id": "deadlock"
+  },
+  {
+    "name": "Hex: Plaything",
+    "id": "hexplaything"
+  },
+  {
+    "name": "Scourge Hook: Gift of Pain",
+    "id": "scourgehookgiftofpain"
+  },
+  {
+    "name": "Grim Embrace",
+    "id": "grimembrace"
+  },
+  {
+    "name": "Scourge Hook: Pain Resonance",
+    "id": "scourgehookpainresonance"
+  },
+  {
+    "name": "Hex: Pentimento",
+    "id": "hexpentimento"
+  },
+  {
+    "name": "Scourge Hook: Floods of Rage",
+    "id": "scourgehookfloodsofrage"
+  },
+  {
+    "name": "Call of Brine",
+    "id": "callofbrine"
+  },
+  {
+    "name": "Merciless Storm",
+    "id": "mercilessstorm"
+  },
+  {
+    "name": "Dissolution",
+    "id": "dissolution"
+  },
+  {
+    "name": "Darkness Revealed",
+    "id": "darknessrevealed"
+  },
+  {
+    "name": "Septic Touch",
+    "id": "septictouch"
+  },
+  {
+    "name": "Superior Anatomy",
+    "id": "superioranatomy"
+  },
+  {
+    "name": "Awakened Awareness",
+    "id": "awakenedawareness"
+  },
+  {
+    "name": "Terminus",
+    "id": "terminus"
+  },
+  {
+    "name": "Nowhere to Hide",
+    "id": "nowheretohide"
+  },
+  {
+    "name": "Hex: Face the Darkness",
+    "id": "hexfacethedarkness"
+  },
+  {
+    "name": "Hubris",
+    "id": "hubris"
+  },
+  {
+    "name": "Game Afoot",
+    "id": "gameafoot"
+  },
+  {
+    "name": "THWACK!",
+    "id": "thwack"
+  },
+  {
+    "name": "Leverage",
+    "id": "leverage"
+  },
+  {
+    "name": "Genetic Limits",
+    "id": "geneticlimits"
+  },
+  {
+    "name": "Forced Hesitation",
+    "id": "forcedhesitation"
+  },
+  {
+    "name": "Machine Learning",
+    "id": "machinelearning"
+  },
+  {
+    "name": "Ultimate Weapon",
+    "id": "ultimateweapon"
+  },
+  {
+    "name": "Rapid Brutality",
+    "id": "rapidbrutality"
+  },
+  {
+    "name": "Alien Instinct",
+    "id": "alieninstinct"
+  },
+  {
+    "name": "Hex: Two Can Play",
+    "id": "hextwocanplay"
+  },
+  {
+    "name": "Friends ‘Til the End",
+    "id": "friendstiltheend"
+  },
+  {
+    "name": "Batteries Included",
+    "id": "batteriesincluded"
+  },
+  {
+    "name": "Unbound",
+    "id": "unbound"
+  },
+  {
+    "name": "Unforeseen",
+    "id": "unforeseen"
+  },
+  {
+    "name": "Undone",
+    "id": "undone"
+  },
+  {
+    "name": "Weave Attunement",
+    "id": "weaveattunement"
+  },
+  {
+    "name": "Languid Touch",
+    "id": "languidtouch"
+  },
+  {
+    "name": "Dark Arrogance",
+    "id": "darkarrogance"
+  },
+  {
+    "name": "Hex: Wretched Fate",
+    "id": "hexwretchedfate"
+  },
+  {
+    "name": "Human Greed",
+    "id": "humangreed"
+  },
+  {
+    "name": "Dominance",
+    "id": "dominance"
+  },
+  {
+    "name": "All-Shaking Thunder",
+    "id": "allshakingthunder"
+  },
+  {
+    "name": "Scourge Hook: Jagged Compass",
+    "id": "scourgehookjaggedcompass"
+  },
+  {
+    "name": "No Quarter",
+    "id": "noquarter"
+  },
+  {
+    "name": "Hex: Nothing But Misery",
+    "id": "hexnothingbutmisery"
+  },
+  {
+    "name": "Forever Entwined",
+    "id": "foreverentwined"
+  },
+  {
+    "name": "None Are Free",
+    "id": "nonearefree"
+  },
+  {
+    "name": "Help Wanted",
+    "id": "helpwanted"
+  },
+  {
+    "name": "Phantom Fear",
+    "id": "phantomfear"
+  },
+  {
+    "name": "Haywire",
+    "id": "haywire"
+  },
+  {
+    "name": "Ravenous",
+    "id": "ravenous"
+  },
+  {
+    "name": "Wandering Eye",
+    "id": "wanderingeye"
+  },
+  {
+    "name": "Hex: Overture of Doom",
+    "id": "hexovertureofdoom"
+  },
+  {
+    "name": "Turn Back The Clock",
+    "id": "turnbacktheclock"
+  },
+  {
+    "name": "Secret Project",
+    "id": "secretproject"
+  },
+  {
+    "name": "Hex: Hive Mind",
+    "id": "hexhivemind"
+  },
+  {
+    "name": "Hex: Scared to Death",
+    "id": "hexscaredtodeath"
+  },
+  {
+    "name": "Silent Shadow",
+    "id": "silentshadow"
+  },
+  {
+    "name": "Rampage",
+    "id": "rampage"
+  },
+  {
+    "name": "Celestial Witness",
+    "id": "celestialwitness"
+  },
+  {
+    "name": "Hex: Under Your Thumb",
+    "id": "hexunderyourthumb"
+  },
+  {
+    "name": "Lay Waste",
+    "id": "laywaste"
+  },
+  {
+    "name": "Lightborn",
+    "id": "lightborn"
+  },
+  {
+    "name": "Mad Grit",
+    "id": "madgrit"
+  },
+  {
+    "name": "Make your Choice",
+    "id": "makeyourchoice"
+  },
+  {
+    "name": "Mindbreaker",
+    "id": "mindbreaker"
+  },
+  {
+    "name": "Monitor & Abuse",
+    "id": "monitorabuse"
+  },
+  {
+    "name": "Scourge Hook: Monstrous Shrine",
+    "id": "scourgehookmonstrousshrine"
+  },
+  {
+    "name": "Nemesis",
+    "id": "nemesis"
+  },
+  {
+    "name": "Hex: No One Escapes Death",
+    "id": "hexnooneescapesdeath"
+  },
+  {
+    "name": "A Nurse's Calling",
+    "id": "anursescalling"
+  },
+  {
+    "name": "Overwhelming Presence",
+    "id": "overwhelmingpresence"
+  },
+  {
+    "name": "Play With Your Food",
+    "id": "playwithyourfood"
+  },
+  {
+    "name": "Pop Goes the Weasel",
+    "id": "popgoestheweasel"
+  },
+  {
+    "name": "Predator",
+    "id": "predator"
+  },
+  {
+    "name": "Rancor",
+    "id": "rancor"
+  },
+  {
+    "name": "Remember Me",
+    "id": "rememberme"
+  },
+  {
+    "name": "Save the best for last",
+    "id": "savethebestforlast"
+  },
+  {
+    "name": "Shadowborn",
+    "id": "shadowborn"
+  },
+  {
+    "name": "Sloppy Butcher",
+    "id": "sloppybutcher"
+  },
+  {
+    "name": "Spies from the Shadows",
+    "id": "spiesfromtheshadows"
+  },
+  {
+    "name": "Spirit Fury",
+    "id": "spiritfury"
+  },
+  {
+    "name": "Stridor",
+    "id": "stridor"
+  },
+  {
+    "name": "Surge",
+    "id": "surge"
+  },
+  {
+    "name": "Surveillance",
+    "id": "surveillance"
+  },
+  {
+    "name": "Territorial Imperative",
+    "id": "territorialimperative"
+  },
+  {
+    "name": "Thanatophobia",
+    "id": "thanatophobia"
+  },
+  {
+    "name": "Thrilling Tremors",
+    "id": "thrillingtremors"
+  },
+  {
+    "name": "Tinkerer",
+    "id": "tinkerer"
+  },
+  {
+    "name": "Trail of Torment",
+    "id": "trailoftorment"
+  },
+  {
+    "name": "Unnerving Presence",
+    "id": "unnervingpresence"
+  },
+  {
+    "name": "Unrelenting",
+    "id": "unrelenting"
+  },
+  {
+    "name": "Whispers",
+    "id": "whispers"
+  },
+  {
+    "name": "Zanshin Tactics",
+    "id": "zanshintactics"
+  }
+]

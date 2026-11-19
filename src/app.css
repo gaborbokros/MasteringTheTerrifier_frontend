@@ -1,0 +1,94 @@
+/* DEFAULT SETTINGS */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+  --bg: #100e10;
+  --font: #f5eedf;
+  --red: #f54358;
+  --line: #403337;
+
+  --title-font: Georgia;
+  --main-font: 'Roboto';
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0px
+}
+
+body {
+  background: var(--bg);
+  color: var(--font);
+  font-family: var(--main-font);
+  min-height: 100vh;
+}
+
+h1, h2, h3 {
+  font-family: var(--title-font);
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+em {
+  color: #f54358;
+  font-style: italic;
+}
+
+.eyebrow {
+  font-size: .78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .18em;
+  color: var(--red);
+}
+
+.divider {
+  width: 100%;
+  height: 3px;
+  background: var(--line);
+  margin: 0px auto 40px
+}
+
+.italic {
+  font-style: italic;
+  opacity: .2;
+}
+
+button {
+  cursor: pointer;
+}
+
+footer a {
+  color: var(--font);
+  text-decoration: none;
+  opacity: .5;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 40px;
+  gap: 50px;
+}
+
+@media (max-width: 650px) {
+  footer {
+    flex-wrap: wrap;
+  }
+}
