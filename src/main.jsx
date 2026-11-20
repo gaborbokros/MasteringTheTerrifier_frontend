@@ -15,7 +15,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/adatvedelmi-tajekoztato" element={<Adatvedelmi />} />
         <Route path="/versenyszabalyzat" element={<Versenyszabalyzat />} />
         <Route path="/jelentkezes" element={<Jelentkezes />} />
-        <Route path="/edit/:id" element={<Edit />} />
+        <Route path="/szerkesztes/:id" element={<Edit />} />
       </Route>
     </Routes>
   </BrowserRouter>,
