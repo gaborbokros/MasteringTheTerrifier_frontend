@@ -1,3 +1,15 @@
 .main {
     min-height: 100vh;
 }
+
+@media (max-width: 1180px) {
+    #adatvedelmi .container {
+        width: 95%;
+    }
+}
+
+@media (max-width: 600px) {
+    #adatvedelmi .container {
+        padding: 50px 20px;
+    }
+}
