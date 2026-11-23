@@ -35,7 +35,7 @@ function Jelentkezes () {
         await axios.post("https://masteringtheterrifier-backend-nsea.onrender.com/api/forms", { "twitch": twitchname, discord: discordname, inGameName: ingamename, "perks": choosenperks, privacyAccepted: adatvedelmi, rulesAccepted: versenyszabalyzat, addons: choosenaddons })
         .then(res => {
             console.log(res.data.message + " " + res.data.id);
-            setmessage({ type: "good", message: [res.data.message, `Az összeállított build-et a verseny kezdetéig módosíthatod ezen a linken: ${res.data.id}`] })
+            setmessage({ type: "good", message: [res.data.message, `Az összeállított build-et az event kezdetéig módosíthatod ezen a linken (mentsd el, ha pedig elfelejtetted Nightraven el tudja küldeni):`, `https://masteringtheterrifier.onrender.com/szerkesztes/${res.data.id}`] })
         })
         .catch(e => {
             setmessage({ type: "bad", message: e.response.data.details })
